@@ -52,7 +52,7 @@ bool search(std::string &param) {
 input_file.close();
 output_file.close();
 
-std::cout << GREEN << "File successfully processed! Have a great day!\n\n << NORMAL";
+std::cout << GREEN << "File successfully processed! Have a great day!\n\n" << NORMAL;
 	return true;
 }
 
