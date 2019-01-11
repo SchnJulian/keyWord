@@ -14,7 +14,7 @@ Linux:
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Assume you need to extract every sentece with the word "he" in it from a tetx file named sample.txt
 
 ![Alt Text](Example.gif)
 
