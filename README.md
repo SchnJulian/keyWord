@@ -27,8 +27,6 @@ Assume you need to extract every sentece with the word "he" in it from a tetx fi
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
 Distributed under the GNU General Public License v3.0 license. See ``LICENSE`` for more information.
 
 [https://github.com/SchnJulian/](https://github.com/SchnJulian)
