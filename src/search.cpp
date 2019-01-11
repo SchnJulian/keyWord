@@ -1,6 +1,9 @@
 #include "search.h"
 #include <fstream>
 #include <iostream>
+#include <stdio.h>
+constexpr auto GREEN = "\x1B[32m";
+constexpr auto NORMAL = "\x1B[0m";
 
 bool search(std::string &param) {
 
@@ -49,6 +52,7 @@ bool search(std::string &param) {
 input_file.close();
 output_file.close();
 
+std::cout << GREEN << "File successfully processed! Have a great day!\n\n << NORMAL";
 	return true;
 }
 
