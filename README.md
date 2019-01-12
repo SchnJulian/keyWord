@@ -1,4 +1,4 @@
-# keyFile
+# keyWord
 >  Search large text files for specific words and collect them together in a text file. 
 
 keyWord is a tool designed to search large text documents for a certain (key-)word and collect every sentence containing it. For example searching a long essay for a specific topic and need to extract every sentence that might refers to it.
